@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/usa.south-carolina",
+	"version": "1.0.0",
+	"description": "Map of South Carolina, USA",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/usa.south-carolina"
+	},
+	"keywords": [
+		"svg",
+		"map",
+        "usa",
+        "south-carolina"
+	],
+	"author": "Ashley Johnson <ashvalejohn@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
