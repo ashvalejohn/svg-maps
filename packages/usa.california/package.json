@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/usa.california",
+	"version": "1.0.0",
+	"description": "Map of California, USA",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/usa.california"
+	},
+	"keywords": [
+		"svg",
+		"map",
+        "usa",
+        "california"
+	],
+	"author": "Ashley Johnson <ashvalejohn@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "Unlicense"
+}
