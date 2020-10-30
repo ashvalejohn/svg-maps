@@ -43,6 +43,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇺🇸 [USA, Arizona](packages/usa.arizona)
 * 🇺🇸 [USA, Counties](packages/usa.counties)
 * 🇺🇸 [USA, Florida](packages/usa.florida)
+* 🇺🇸 [USA, South Carolina](packages/usa.south-carolina)
 * 🇺🇸 [USA, Texas](packages/usa.texas)
 * 🇺🇸 [USA, Utah](packages/usa.utah)
 * 🌍 [World](packages/world)
