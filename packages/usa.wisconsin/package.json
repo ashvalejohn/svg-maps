@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/usa.wisconsin",
+	"version": "1.0.0",
+	"description": "Map of Wisconsin, USA",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/usa.wisconsin"
+	},
+	"keywords": [
+		"svg",
+		"map",
+        "usa",
+        "wisconsin"
+	],
+	"author": "Ashley Johnson <ashvalejohn@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "Unlicense"
+}
