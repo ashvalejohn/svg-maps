@@ -1,19 +1,19 @@
-# 🇺🇸 USA, Colorado
+# 🇺🇸 USA, Delaware
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-Contains the state map of Colorado.
+Contains the state map of Delaware.
 
 
 ## Installation
 
 ### npm
 
-`npm install --save @svg-maps/usa.colorado`
+`npm install --save @svg-maps/usa.delaware`
 
 ### yarn
 
-`yarn add @svg-maps/usa.colorado`
+`yarn add @svg-maps/usa.delaware`
 
 ## Credits
 
