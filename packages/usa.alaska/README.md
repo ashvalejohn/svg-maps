@@ -1,4 +1,4 @@
-# 🇺🇸 USA, Alabama
+# 🇺🇸 USA, Alaska
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 

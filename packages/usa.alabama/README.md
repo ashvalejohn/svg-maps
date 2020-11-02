@@ -1,19 +1,19 @@
-# 🇺🇸 USA, Alaska
+# 🇺🇸 USA, Alabama
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-Contains the state map of Alaska.
+Contains the state map of Alabama.
 
 
 ## Installation
 
 ### npm
 
-`npm install --save @svg-maps/usa.alaska`
+`npm install --save @svg-maps/usa.alabama`
 
 ### yarn
 
-`yarn add @svg-maps/usa.alaska`
+`yarn add @svg-maps/usa.alabama`
 
 ## Credits
 
