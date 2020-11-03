@@ -1,10 +1,10 @@
 {
-    "name": "svg-maps",
-    "version": "1.0.0",
+	"name": "svg-maps",
+	"version": "1.0.0",
 	"description": "A set of SVG maps",
 	"devDependencies": {
 		"lerna": "^3.13.2",
-		"svgson": "^3.1.0"
+		"svgson": "^4.1.0"
 	},
 	"scripts": {
 		"bootstrap": "lerna bootstrap",
