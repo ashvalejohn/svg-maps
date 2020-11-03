@@ -174,5 +174,8 @@ Contains all the counties in the state of Georgia:
 `yarn add @svg-maps/usa.georgia`
 
 ## Credits
+This map was first created by the [United States Census Bureau](https://www.census.gov/) and has been modified by Wikimedia Commons users.
 
-This map has been provided by [@dressuncoded](https://github.com/dressuncoded).
+The original map is available [here](https://commons.wikimedia.org/wiki/File:Usa_counties_large.svg) (downloaded July 2019) and is in the [public domain](https://en.wikipedia.org/wiki/Public_domain).
+
+Further changes were made by [keatonboyle](https://github.com/keatonboyle) (see `@svg-maps/usa.counties`) and [@dressuncoded](https://github.com/dressuncoded).

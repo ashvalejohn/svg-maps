@@ -1,85 +1,106 @@
-# 🇺🇸 USA, Pennsylvania
+# 🇺🇸 USA, Ohio
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-Contains all the counties in the state of Pennsylvania:
+Contains all the counties in the state of Ohio:
 * Adams
-* Allegheny
-* Armstrong
-* Beaver
-* Bedford
-* Berks
-* Blair
-* Bradford
-* Bucks
+* Allen
+* Ashland
+* Ashtabula
+* Athens
+* Auglaize
+* Belmont
+* Brown
 * Butler
-* Cambria
-* Cameron
-* Carbon
-* Centre
-* Chester
-* Clarion
-* Clearfield
+* Carroll
+* Champaign
+* Clark
+* Clermont
 * Clinton
-* Columbia
+* Columbiana
+* Coshocton
 * Crawford
-* Cumberland
-* Dauphin
+* Cuyahoga
+* Darke
+* Defiance
 * Delaware
-* Elk
 * Erie
+* Fairfield
 * Fayette
-* Forest
 * Franklin
 * Fulton
+* Gallia
+* Geauga
 * Greene
-* Huntingdon
-* Indiana
+* Guernsey
+* Hamilton
+* Hancock
+* Hardin
+* Harrison
+* Henry
+* Highland
+* Hocking
+* Holmes
+* Huron
+* Jackson
 * Jefferson
-* Juniata
-* Lackawanna
-* Lancaster
+* Knox
+* Lake
 * Lawrence
-* Lebanon
-* Lehigh
-* Luzerne
-* Lycoming
-* McKean
+* Licking
+* Logan
+* Lorain
+* Lucas
+* Madison
+* Mahoning
+* Marion
+* Medina
+* Meigs
 * Mercer
-* Mifflin
+* Miami
 * Monroe
 * Montgomery
-* Montour
-* Northampton
-* Northumberland
+* Morgan
+* Morrow
+* Muskingum
+* Noble
+* Ottawa
+* Paulding
 * Perry
-* Philadelphia
+* Pickaway
 * Pike
-* Potter
-* Schuylkill
-* Snyder
-* Somerset
-* Sullivan
-* Susquehanna
-* Tioga
+* Portage
+* Preble
+* Putnam
+* Richland
+* Ross
+* Sandusky
+* Scioto
+* Seneca
+* Shelby
+* Stark
+* Summit
+* Trumbull
+* Tuscarawas
 * Union
-* Venango
+* Van Wert
+* Vinton
 * Warren
 * Washington
 * Wayne
-* Westmoreland
-* Wyoming
-* York
+* Williams
+* Wood
+* Wyandot
 
 ## Installation
 
 ### npm
 
-`npm install --save @svg-maps/usa.pennsylvania`
+`npm install --save @svg-maps/usa.ohio`
 
 ### yarn
 
-`yarn add @svg-maps/usa.pennsylvania`
+`yarn add @svg-maps/usa.ohio`
 
 ## Credits
 
