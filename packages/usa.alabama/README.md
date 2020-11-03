@@ -17,4 +17,4 @@ Contains the state map of Alabama.
 
 ## Credits
 
-This map is based on the work of [Dbenbenn](https://commons.wikimedia.org/wiki/User:Dbenbenn).
+This map has been provided by [@dressuncoded](https://github.com/dressuncoded) in this [pull request]().

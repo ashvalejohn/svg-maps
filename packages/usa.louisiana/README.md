@@ -1,19 +1,18 @@
-# 🇺🇸 USA, Arizona
+# 🇺🇸 USA, Louisiana
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-Contains all the counties of the Arizona state:
-
+Contains the state map of Louisiana.
 
 ## Installation
 
 ### npm
 
-`npm install --save @svg-maps/usa.arizona`
+`npm install --save @svg-maps/usa.louisiana`
 
 ### yarn
 
-`yarn add @svg-maps/usa.arizona`
+`yarn add @svg-maps/usa.louisiana`
 
 ## Credits
 
