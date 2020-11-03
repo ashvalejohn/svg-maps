@@ -23,4 +23,4 @@ Contains the state map of Hawaii, with ids on the following islands:
 
 ## Credits
 
-This map has been provided by [@dressuncoded](https://github.com/dressuncoded) in this [pull request]().
+This map has been provided by [@dressuncoded](https://github.com/dressuncoded).

@@ -16,4 +16,4 @@ Contains the state map of Illinois.
 
 ## Credits
 
-This map has been provided by [@dressuncoded](https://github.com/dressuncoded) in this [pull request]().
+This map has been provided by [@dressuncoded](https://github.com/dressuncoded).

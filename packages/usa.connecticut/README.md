@@ -17,4 +17,4 @@ Contains the state map of Connecticut.
 
 ## Credits
 
-This map has been provided by [@dressuncoded](https://github.com/dressuncoded) in this [pull request]().
+This map has been provided by [@dressuncoded](https://github.com/dressuncoded).
