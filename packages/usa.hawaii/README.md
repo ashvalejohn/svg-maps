@@ -6,9 +6,11 @@ Contains the state map of Hawaii, with ids on the following islands:
 
 - Hawaii
 - Kahoolawe
+- Kauai
 - Lanai
 - Maui
 - Molokai
+- Niihau
 - Oahu
 
 ## Installation
